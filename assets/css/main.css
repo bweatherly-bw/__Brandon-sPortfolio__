@@ -32,9 +32,6 @@ body {
 	line-height: 1;
 }
 
-.resumeImage {
-	background-image: url('/images/resumeIcon.png') !important;
-}
 
 ol, ul {
 	list-style: none;
